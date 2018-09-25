@@ -1,0 +1,10 @@
+E:\File Visual Studio\calculator\SecndCalcu\bin\Debug\SecndCalcu.exe.config
+E:\File Visual Studio\calculator\SecndCalcu\bin\Debug\SecndCalcu.exe
+E:\File Visual Studio\calculator\SecndCalcu\bin\Debug\SecndCalcu.pdb
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.csprojResolveAssemblyReference.cache
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.Form1.resources
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.Properties.Resources.resources
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.csproj.GenerateResource.Cache
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.csproj.CoreCompileInputs.cache
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.exe
+E:\File Visual Studio\calculator\SecndCalcu\obj\Debug\SecndCalcu.pdb
